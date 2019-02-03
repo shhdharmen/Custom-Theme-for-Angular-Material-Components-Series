@@ -1,3 +1,6 @@
 [submodule "part-1"]
 	path = part-1
 	url = https://github.com/shhdharmen/theming-material-components.git
+[submodule "part-3"]
+	path = part-3
+	url = https://github.com/shhdharmen/theming-material-components-3.git
